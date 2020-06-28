@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Practica_2</string>
+    <string name="cerrar_sesion">Cerrar sesion</string>
+    <string name="correo">CORREO:</string>
+    <string name="clave">CLAVE</string>
+    <string name="I_sesion">INICIAR SESIÓN</string>
+    <string name="registrarse">Crear usuario</string>
+    <string name="titulo">FORMULARIO DE REGISTRO</string>
+    <string name="nombre">NOMBRE</string>
+    <string name="telefono">TELEFONO</string>
+    <string name="genero">GENERO</string>
+    <string name="masculino">MASCULINO</string>
+    <string name="femenino">FEMENINO</string>
+    <string name="fecha_de_nacimiento_label">FECHA DE NACIMIENTO</string>
+    <string name="fecha_nacimiento">DD/MM/AAAA</string>
+    <string name="c_nacimiento">CIUDAD DE NACIMIENTO</string>
+    <string name="hobbies">Pasa Tiempos</string>
+    <string name="arte">PINTURA</string>
+    <string name="musica">MUSICA</string>
+    <string name="vjuegos">CINE</string>
+    <string name="lectura">LECTURA</string>
+    <string name="contrasena">CONTRASEÑA</string>
+    <string name="repetir_contrasena">REPETIR CONTRASEÑA</string>
+    <string name="guardar">GUARDAR</string>
+    <string name="autentificacion_fallida">Correo o contraseña errada</string>
+    <string name="mal">contraseña errad</string>
+    <string-array name="ciudades">
+        <item>MEDELLIN</item>
+        <item>CALI</item>
+        <item>BOGOTA</item>
+        <item>BARRANQUILLA</item>
+    </string-array>
+</resources>
